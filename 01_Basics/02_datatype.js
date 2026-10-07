@@ -16,6 +16,7 @@ let state1;
 //symbol = unique
 
 //object
+console.log(typeof "Piyush");//String
 
 console.log(typeof undefined);//undefined
 console.log(typeof null); // object
